@@ -7,8 +7,8 @@ FAW runtime writes only `faw/attempt/<attempt_id>` branches — never `main`,
 never PRs (D1).
 
 **Governance:** `main` is branch-protected (no force-pushes, no deletions,
-admins enforced). The first delegation will carry `max_wall_seconds` and
-`max_output_bytes` only (D5).
+admins enforced).
 
-**Contents:** intentionally boring, bounded tasks (per §10 of the program
-brief). This repo demonstrates the system boundary, not intelligence.
+**First bounded task (P6 §10):** "add a docstring to function `f` in `x.py`
+and leave everything else unchanged." — see `x.py`. The task is intentionally
+boring: it demonstrates the system boundary, not intelligence.
