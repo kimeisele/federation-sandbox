@@ -2,4 +2,5 @@
 
 
 def f(value: int) -> int:
+    """Multiply input value by 2."""
     return value * 2
