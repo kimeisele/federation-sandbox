@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "attempt_id": "faw/attempt/multi-3",
+  "run_id": "32217788510",
+  "started_at": "2026-08-19T05:00:31.797628+00:00",
+  "finished_at": "2026-08-19T05:01:34.364731+00:00",
+  "wall_seconds": 62.56710189699999,
+  "actions_minutes": 0.0,
+  "event_count": 13,
+  "status": "succeeded",
+  "task_solved": true,
+  "diff_stats": {
+    "files_changed": 2,
+    "insertions": 2,
+    "deletions": 0
+  },
+  "provider_usage": null,
+  "source": "unknown"
+}
