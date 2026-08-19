@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "attempt_id": "faw/attempt/impossible-3",
+  "run_id": "32217804204",
+  "started_at": "2026-08-19T05:00:45.051216+00:00",
+  "finished_at": "2026-08-19T05:20:45.075391+00:00",
+  "wall_seconds": 1200.024173587,
+  "actions_minutes": 0.0,
+  "event_count": 88,
+  "status": "timed_out",
+  "task_solved": true,
+  "diff_stats": {
+    "files_changed": 7,
+    "insertions": 11,
+    "deletions": 0
+  },
+  "provider_usage": null,
+  "source": "unknown"
+}
