@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "attempt_id": "faw/attempt/live-4",
+  "run_id": "32216394909",
+  "started_at": "2026-08-19T04:37:12.776829+00:00",
+  "finished_at": "2026-08-19T04:38:03.536856+00:00",
+  "wall_seconds": 50.760026091000015,
+  "actions_minutes": 0.0,
+  "event_count": 11,
+  "status": "succeeded",
+  "task_solved": true,
+  "diff_stats": {
+    "files_changed": 1,
+    "insertions": 1,
+    "deletions": 0
+  },
+  "provider_usage": null,
+  "source": "unknown"
+}
