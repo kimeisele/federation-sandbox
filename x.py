@@ -2,4 +2,5 @@
 
 
 def f(value: int) -> int:
+    """Double the given integer value."""
     return value * 2
