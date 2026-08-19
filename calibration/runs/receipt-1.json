@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "attempt_id": "faw/attempt/receipt-1",
+  "run_id": "32275964730",
+  "started_at": "2026-08-19T16:27:19.429644+00:00",
+  "finished_at": "2026-08-19T16:27:55.624024+00:00",
+  "wall_seconds": 36.194378802,
+  "actions_minutes": 0.0,
+  "event_count": 11,
+  "status": "succeeded",
+  "task_solved": true,
+  "diff_stats": {
+    "files_changed": 1,
+    "insertions": 8,
+    "deletions": 0
+  },
+  "provider_usage": null,
+  "source": "unknown",
+  "acceptance_source": "delegation_acceptance",
+  "violations": [],
+  "extraneous_files": []
+}
